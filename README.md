@@ -8,8 +8,17 @@ CTF Tools and commands used during _**RTARF Cyber Warrior Contest 2024**_ compil
 
 # Index
 
-- ![Digital Forensics](https://github.com/mattkoco/Sisyphus/tree/main/Forensics%20(DF))
+- [Digital Forensics](https://github.com/mattkoco/Sisyphus/tree/main/Forensics%20(DF))
   
-  - ![Disk Forensics](https://github.com/mattkoco/Sisyphus/blob/main/Forensics%20(DF)/Disk%20Forensics.md)
+  - [Disk Forensics](https://github.com/mattkoco/Sisyphus/blob/main/Forensics%20(DF)/Disk%20Forensics.md)
     
-  - ![Steganography](https://github.com/mattkoco/Sisyphus/blob/main/Forensics%20(DF)/Stego.md)
+  - [Steganography](https://github.com/mattkoco/Sisyphus/blob/main/Forensics%20(DF)/Stego.md)
+
+- [Cryptography](https://github.com/mattkoco/Sisyphus/tree/main/Cryptography)
+
+  - [Hashing](https://github.com/mattkoco/Sisyphus/tree/main/Cryptography/Hashing.md)
+ 
+  - [Ciphers](https://github.com/mattkoco/Sisyphus/tree/main/Cryptography/Ciphers.md)
+ 
+  - [RSA](https://github.com/mattkoco/Sisyphus/tree/main/Cryptography/RSA.md)
+
