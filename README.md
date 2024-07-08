@@ -13,6 +13,10 @@ CTF Tools and commands used during _**RTARF Cyber Warrior Contest 2024**_ compil
   - [Disk Forensics](https://github.com/mattkoco/Sisyphus/blob/main/Forensics%20(DF)/Disk%20Forensics.md)
     
   - [Steganography](https://github.com/mattkoco/Sisyphus/blob/main/Forensics%20(DF)/Stego.md)
+ 
+  - Net/Wireshark (UPCOMING)
+ 
+  - OSINT (UPCOMING)
 
 - [Cryptography](https://github.com/mattkoco/Sisyphus/tree/main/Cryptography)
 
