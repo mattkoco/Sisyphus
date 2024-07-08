@@ -21,4 +21,13 @@ CTF Tools and commands used during _**RTARF Cyber Warrior Contest 2024**_ compil
   - [Ciphers](https://github.com/mattkoco/Sisyphus/tree/main/Cryptography/Ciphers.md)
  
   - [RSA](https://github.com/mattkoco/Sisyphus/tree/main/Cryptography/RSA.md)
+ 
+- Web (UPCOMING)
+
+- RevEng (UPCOMING)
+
+- PWN/HTB (UPCOMING)
+
+- General Tools / Links (UPCOMING)
+
 
