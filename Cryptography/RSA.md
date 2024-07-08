@@ -1,4 +1,5 @@
 # RSA 4 Dummies
+I hope you paid attention in math class
 
 ## Key Generation
 - **Step 1: Choose two large prime numbers, p and q**
