@@ -1,2 +1,7 @@
-Hash type cheat sheet
-
+Tools:
+- ![Crackstation](https://crackstation.net/)
+```
+- John
+- Hashcat
+- OPHCrack
+```
