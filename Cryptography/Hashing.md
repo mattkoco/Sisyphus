@@ -50,3 +50,4 @@
 - [John the Ripper](https://www.openwall.com/john/)
 - [RainbowCrack](http://project-rainbowcrack.com/)
 - [Crackstation](https://crackstation.net/)
+- ![Hash Identifier](https://hashes.com/en/tools/hash_identifier)
