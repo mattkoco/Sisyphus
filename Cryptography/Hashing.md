@@ -1,1 +1,2 @@
+Hash type cheat sheet
 
