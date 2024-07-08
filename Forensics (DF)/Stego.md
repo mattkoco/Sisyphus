@@ -32,3 +32,5 @@ $ hexdump -C flag.png
   - tIME stores the time that the image was last changed
   - tRNS contains transparency information. For indexed images, it stores alpha channel values for one or more palette entries. For truecolor and grayscale images, it stores a single pixel value that is to be regarded as fully transparent
   - zTXt contains compressed text with the same limits as tEXt
+
+*** Aperisolve can solve most basic Stego challenges. Stego can be much harder then what you find on sites like PicoCTF - don't assume all stego challenges are freebies. ***
