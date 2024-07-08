@@ -1,4 +1,4 @@
-# RSA Encryption CTF Cheatsheet
+# RSA 4 Dummies
 
 ## Key Generation
 - **Step 1: Choose two large prime numbers, p and q**
