@@ -26,12 +26,18 @@ CTF Tools and commands used during _**RTARF Cyber Warrior Contest 2024**_ compil
  
   - [RSA](https://github.com/mattkoco/Sisyphus/tree/main/Cryptography/RSA.md)
  
+- [General Items](https://github.com/mattkoco/Sisyphus/tree/main/General%20Items)
+
+  - [Links](https://github.com/mattkoco/Sisyphus/tree/main/General%20Items/Links.md)
+ 
+  - [Install script for Kali](https://github.com/mattkoco/Sisyphus/tree/main/General%20Items/install.sh)
+ 
 - Web (UPCOMING)
 
 - RevEng (UPCOMING)
 
 - PWN/HTB (UPCOMING)
 
-- General Tools / Links (UPCOMING)
+
 
 
