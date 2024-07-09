@@ -30,7 +30,7 @@ CTF Tools and commands used during _**RTARF Cyber Warrior Contest 2024**_ compil
 
   - [Links](https://github.com/mattkoco/Sisyphus/tree/main/General%20Items/Links.md)
  
-  - [Install script for Kali](https://github.com/mattkoco/Sisyphus/tree/main/General%20Items/install.sh)
+  - [Install script for Kali](https://github.com/mattkoco/Sisyphus/tree/main/General%20Items/install.sh) (INCOMPLETE/UPCOMING)
  
 - Web (UPCOMING)
 
