@@ -1,7 +1,7 @@
 # OSINT (Rarer category to be found in CTF)
 
 ## Introduction
-Open Source Intelligence (OSINT) involves gathering information from publicly available sources. It's commonly used in CTF challenges to uncover details about individuals, organizations, or systems.
+Open Source Intelligence (OSINT) involves gathering information from publicly available sources. It's commonly used in CTF challenges to uncover details about individuals, organizations, or systems. For example, in DUCTF 2023, competitors were tasked with finding the precise location of a photo. For some challenges, the GPS data was left in the file, but in others it came down to just finding small hints Geoguessr style.
 
 ## Key OSINT Techniques
 
