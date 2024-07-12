@@ -81,6 +81,5 @@ Wireshark and tshark are powerful tools for network protocol analysis. They are 
 - [Wireshark User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
 - [Wireshark Display Filter Reference](https://www.wireshark.org/docs/dfref/)
 - [tshark Manual](https://www.wireshark.org/docs/man-pages/tshark.html)
-- [Wireshark Cheat Sheet](https://packetlife.net/media/library/23/Wireshark_Display_Filters.pdf)
 
 ![Wireshark-Cheat-Sheet-1](https://github.com/user-attachments/assets/bf034b34-b4f7-486c-bf55-1efe7daab92f)
