@@ -5,6 +5,7 @@ CTF Tools and commands used during _**RTARF Cyber Warrior Contest 2024**_ (+ oth
 ![RTARF CWC 2024 Main Graphic](https://github.com/mattkoco/Sisyphus/blob/main/Screenshot%202024-07-08%20094737.png)
 
 > Toolkit made and designed by ***Matthew Kocorowski*** of team ***Layer 8 Problems***
+> Some revisions made by ***[Emmett Omron](https://github.com/emomron2025)***, also of team ***Layer 8 Problems***
 
 # Index
 
