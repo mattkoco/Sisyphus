@@ -34,9 +34,11 @@ CTF Tools and commands used during _**RTARF Cyber Warrior Contest 2024**_ (+ oth
  
   - [Install script for Kali](https://github.com/mattkoco/Sisyphus/tree/main/General%20Items/install.sh) (INCOMPLETE/UPCOMING)
  
-- Web (UPCOMING)
+- [Reverse Engineering](https://github.com/mattkoco/Sisyphus/tree/main/Reverse%20Engineering)
 
-- RevEng (UPCOMING)
+  - [ELF Files](https://github.com/mattkoco/Sisyphus/blob/main/Reverse%20Engineering/ELF%20files.md)
+ 
+- Web (UPCOMING)
 
 - PWN/HTB (UPCOMING)
 
