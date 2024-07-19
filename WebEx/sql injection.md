@@ -2,6 +2,8 @@
 
 This SQL injection cheat sheet contains examples of useful syntax that you can use to perform a variety of tasks that often arise when performing SQL injection attacks.
 
+Thanks PortSwigger 😘😘
+
 ## String Concatenation
 
 You can concatenate together multiple strings to make a single string.
