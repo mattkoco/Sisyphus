@@ -1,9 +1,9 @@
 # Reverse Engineering Overview
 
-## File Reversing
+## Introduction
 - **Definition:** Reverse engineering involves taking a program, binary, or script produced by some external source and analyzing it to figure out how it works. In a CTF context, you then have to reverse the file by writing a script that reverses whatever the file did to find the decrypted flag.
 
-### RE Tips (in no particular order)
+## RE Tips (in no particular order)
 - **Deobfuscate:**
   - Many reverse engineering challenges will use confusing function names and variables, as well as "dead code" that does nothing, to make it hard to read
     - Use find-and-replace in a text editor to replace them with more readable names
