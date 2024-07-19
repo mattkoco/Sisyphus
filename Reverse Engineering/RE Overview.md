@@ -30,3 +30,4 @@
   - Step through it with a debugger
  
 # GOOGLE IS YOUR FRIEND
+seriously if you don't know what you're doing google does
