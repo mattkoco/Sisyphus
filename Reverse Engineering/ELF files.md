@@ -10,8 +10,8 @@ ELF (Executable Linking Format) files are the most common method of packaging ex
 	- Ghidra is one of the many tools you can use. it is good for static analysis and getting an idea of the code. 
 	- A full guide to the tool ought to be created somewhere besides here; for now, this guide assumes you know the basics of its usage
 - **Using Ghidra**
-  	- first open your file and choose to analize it
+  	- Open your file and choose to analyze it
   	- Use the menus on the side to view the function tree then look through to find where the first function is.
-  	- Once you find a vulnurble funciton you can bring it into and dynamic complier like gdb and look through
+  	- Once you find a vulnerable funciton, you can bring it into a dynamic complier like gdb and look through
 - **Exploiting**
 	- After you have a good idea of what the file does, i'll write this bit later
