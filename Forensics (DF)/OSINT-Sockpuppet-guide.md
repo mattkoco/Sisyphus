@@ -12,9 +12,11 @@
 
 - Privacy.com - https://privacy.com/join/LADFC *$5 credit given on signup
 
-# Example of a Sockpuppet Profile
+# Example of a Sockpuppet Profile (DISCLAIMER: ALL INFO AND PHOTOS ARE FAKE, LITERALLY READ ANYTHING ABOVE THIS)
 
 Susan G. Butler
+
+![image](https://github.com/user-attachments/assets/8537c48b-bb98-417c-aa01-fecc608d857d)
 
 1358 Diamond Cove
 
@@ -26,42 +28,27 @@ SSN: 037-24-XXXX (If you sign in with Gmail you can get the full thing)
 
 Geo coordinates 41.865551, -71.391233 
 
-Phone
+Phone 401-351-0245
 
-Phone
-    401-351-0245
+Country code 1
 
-Country code
-    1
+Birthday April 11, 2005
 
-Birthday
+Age 19 years old
 
-Birthday
-    April 11, 2005
+Tropical zodiac Aries
 
-Age
-    19 years old
+Email Address SusanGButler@teleworm.us
 
-Tropical zodiac
-    Aries
+^^ This is a real email address, it can be activated from the website.
 
-Online
+Username Agoo2005
 
-Email Address
-    SusanGButler@teleworm.us
-    This is a real email address. Click here to activate it!
+Password RoMeutohz4
 
-Username
-    Agoo2005
+Website richestperson.com
 
-Password
-    RoMeutohz4
-
-Website
-    richestperson.com
-
-Browser user agent
-    Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Browser user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
 
 Visa 4539 6034 6448 1038
 
