@@ -26,52 +26,52 @@ Mother's maiden name: Hereford
 
 SSN: 037-24-XXXX (If you sign in with Gmail you can get the full thing)
 
-Geo coordinates 41.865551, -71.391233 
+Geo coordinates: 41.865551, -71.391233 
 
-Phone 401-351-0245
+Phone: 401-351-0245
 
-Country code 1
+Country: code 1
 
-Birthday April 11, 2005
+Birthday: April 11, 2005
 
-Age 19 years old
+Age: 19 years old
 
-Tropical zodiac Aries
+Tropical: zodiac Aries
 
-Email Address SusanGButler@teleworm.us
+Email Address: SusanGButler@teleworm.us
 
 ^^ This is a real email address, it can be activated from the website.
 
-Username Agoo2005
+Username: Agoo2005
 
-Password RoMeutohz4
+Password: RoMeutohz4
 
-Website richestperson.com
+Website: richestperson.com
 
-Browser user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+Browser user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
 
-Visa 4539 6034 6448 1038
+Visa: 4539 6034 6448 1038
 
-Expires 6/2028
+Expires: 6/2028
 
-CVV2 446
+CVV2: 446
 
-Company Suncoast Video
+Company: Suncoast Video
 
-Occupation Public adjuster
+Occupation: Public adjuster
 
-Height 5' 8" (173 centimeters)
+Height: 5' 8" (173 centimeters)
 
-Weight 195.1 pounds (88.7 kilograms)
+Weight: 195.1 pounds (88.7 kilograms)
 
-Blood type O+
+Blood type: O+
 
-UPS tracking number 1Z 203 910 70 4837 585 4
+UPS tracking number: 1Z 203 910 70 4837 585 4
 
-Western Union MTCN 3040608238
+Western Union MTCN: 3040608238
 
-MoneyGram MTCN 81693283
+MoneyGram MTCN: 81693283
 
-Favorite color Purple
+Favorite color: Purple
 
-Vehicle 2014 Hyundai Genesis 
+Vehicle: 2014 Hyundai Genesis 
