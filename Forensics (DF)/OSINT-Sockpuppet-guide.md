@@ -16,8 +16,6 @@
 
 Susan G. Butler
 
-![susan](https://github.com/user-attachments/assets/65473c66-f854-414a-b8a7-fce108672033)
-
 1358 Diamond Cove
 
 Providence, RI 02905 
