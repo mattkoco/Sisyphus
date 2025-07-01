@@ -42,7 +42,7 @@ CTF Tools and commands used during _**RTARF Cyber Warrior Contest 2024**_ (+ oth
  
 - Web (UPCOMING)
 
-- PWN/HTB (UPCOMING)
+- HTB (UPCOMING)
 
 
 
