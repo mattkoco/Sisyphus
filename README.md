@@ -1,5 +1,7 @@
 # **Sisyphus**
 
+note: i made this when i knew basically nothing. dont use this. half this stuff is terrible advice
+
 CTF Tools and commands used during _**RTARF Cyber Warrior Contest 2024**_ (+ other CTF's) compiled into one toolkit
 
 ![RTARF CWC 2024 Main Graphic](https://github.com/mattkoco/Sisyphus/blob/main/Screenshot%202024-07-08%20094737.png)
